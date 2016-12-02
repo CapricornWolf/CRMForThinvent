@@ -110,7 +110,7 @@
 				TargetAttributes = {
 					969458371DF0296800AFC979 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 458H3P29W2;
+						DevelopmentTeam = G35P6C6S33;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -271,7 +271,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 458H3P29W2;
+				DEVELOPMENT_TEAM = G35P6C6S33;
 				INFOPLIST_FILE = CRMForThinvent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sichuang.CRMForThinvent;
@@ -283,7 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 458H3P29W2;
+				DEVELOPMENT_TEAM = G35P6C6S33;
 				INFOPLIST_FILE = CRMForThinvent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sichuang.CRMForThinvent;
